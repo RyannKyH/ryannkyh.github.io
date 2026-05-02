@@ -1,0 +1,99 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Matrix'
+theme = 'rusty-typewriter'
+
+[rusty_typewriter]
+ [params.rtwt]
+  sidePane = true
+  countPageItems = 7
+  searchPath = 'search'
+ [params.rtwt.home]
+  showBio = true
+  showAuthorImg = false
+  sidePaneTags = true
+  showFeatured = true
+  showRecent = true
+  hideRecentWhenFeatured = true
+  countRecent = 5
+ [params.rtwt.side.home]
+  sidePaneSticky = false
+  taxonomies = ['tags','series']
+  countTaxonomy = 5
+ [params.rtwt.side.list]
+  sidePaneSticky = false
+ [params.rtwt.side.single]
+  sidePaneSticky = true
+  showDetails = true
+  showTableOfContents = true
+  showAttachments = true
+  showRelated = true
+  countRelated = 5
+
+[related]
+ includeNewer = true
+ [[related.indices]]
+  name = 'tags'
+  weight = 100
+
+[taxonomies]
+ tag = 'tags'
+ topic = 'topics'
+ series = 'series'
+
+[params]
+ summaryLength = 1
+
+[params.author]
+ name = 'Ryann'
+
+[params.links]
+ hugo = 'https://gohugo.io/'
+ theme = 'https://github.com/math-queiroz/rusty-typewriter'
+
+
+ # build search index ================
+[outputFormats]
+ [outputFormats.SearchIndex]
+   mediaType = "application/json"
+   baseName = "searchindex"
+   isPlainText = true
+   notAlternative = true
+
+ [mediaTypes]
+  [mediaTypes."application/json"]
+   suffixes = ["json"]
+
+ [outputs]
+  home = ["HTML","RSS","SearchIndex"]
+ # ===================================
+
+ [[menus.main]]
+ name = 'Home'
+ pageRef = '/'
+ weight = 1
+
+ [[menus.main]]
+ name = 'About'
+ pageRef = '/about'
+ weight = 2
+
+ [[menus.main]]
+ name = 'Projects'
+ pageRef = '/projects'
+ weight = 3
+
+ [[menus.main]]
+ name = 'Posts'
+ pageRef = '/posts'
+ weight = 4
+
+ [[menus.main]]
+ name = 'Tags'
+ pageRef = '/tags'
+ weight = 5
+
+ [[menus.main]]
+ name = 'Contacts'
+ pageRef = '/contacts'
+ weight = 6
