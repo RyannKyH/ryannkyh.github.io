@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matrix</title>
-    <link>https://ryannkyh.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Matrix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://ryannkyh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 May 2026 16:44:06 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/posts/rust/</link>
+      <pubDate>Sat, 02 May 2026 16:44:06 -0300</pubDate>
+      <guid>http://localhost:1313/posts/rust/</guid>
+      <description>&lt;p&gt;Minha jornada de aprendizado com a linguagem de progamação rust&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
