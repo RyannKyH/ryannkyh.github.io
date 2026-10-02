@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Ryann</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://ryannkyh.github.io/posts/</link>
 		<description>Recent content in Posts on Ryann</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
-		
-		
-		
-		
+
+
+
+
 			<lastBuildDate>Fri, 02 Oct 2026 20:26:13 -0300</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+
+			<atom:link href="https://ryannkyh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Studies</title>
-				<link>http://localhost:1313/posts/studies/</link>
+				<link>https://ryannkyh.github.io/posts/studies/</link>
 				<pubDate>Fri, 02 Oct 2026 20:26:13 -0300</pubDate>
-				<guid>http://localhost:1313/posts/studies/</guid>
+				<guid>https://ryannkyh.github.io/posts/studies/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Setup</title>
-				<link>http://localhost:1313/posts/setup/</link>
+				<link>https://ryannkyh.github.io/posts/setup/</link>
 				<pubDate>Fri, 02 Oct 2026 20:26:08 -0300</pubDate>
-				<guid>http://localhost:1313/posts/setup/</guid>
+				<guid>https://ryannkyh.github.io/posts/setup/</guid>
 				<description>&lt;p&gt;I Use Arch Btw&lt;/p&gt;</description>
 			</item>
 	</channel>
