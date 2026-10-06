@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Ryann</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Ryann</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 05 Oct 2026 09:53:20 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Studies</title>
+				<link>http://localhost:1313/posts/studies/</link>
+				<pubDate>Mon, 05 Oct 2026 09:53:20 -0300</pubDate>
+				<guid>http://localhost:1313/posts/studies/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Setup</title>
+				<link>http://localhost:1313/posts/setup/</link>
+				<pubDate>Mon, 05 Oct 2026 09:53:18 -0300</pubDate>
+				<guid>http://localhost:1313/posts/setup/</guid>
+				<description>&lt;p&gt;I Use Arch Btw&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
