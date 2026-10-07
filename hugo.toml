@@ -83,3 +83,8 @@ theme = 'rusty-typewriter'
   [outputs]
    home = ["HTML","RSS","SearchIndex"]
   # ===================================
+
+  # GitHub Pages
+  [caches]
+  [caches.images]
+  dir = ':cacheDir/images'

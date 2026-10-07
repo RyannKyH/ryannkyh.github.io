@@ -17,7 +17,7 @@
 }
 
 :root[color-scheme^='light'] {
-  --body-text-color: #222;
+  --body-text-color: #000000;
   --body-background-color: #f0efea;
 
   --primary-color: #cd5c5c;
@@ -35,4 +35,3 @@
 
   --dim-opacity: 50%;
 }
-
