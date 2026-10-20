@@ -1,2 +1,2 @@
 Um Simples Lugar Para Escapar Do Tédio...
-By: !(Ryann)[https://github.com/RyannKyH]
+By: (Ryann)[https://github.com/RyannKyH]
