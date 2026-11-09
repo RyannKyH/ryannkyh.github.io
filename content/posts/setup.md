@@ -4,4 +4,4 @@ draft = true
 title = 'Setup'
 +++
 
-I Use Arch Btw
+I use Arch btw...
