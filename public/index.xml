@@ -10,9 +10,16 @@
 
 
 
-			<lastBuildDate>Mon, 09 Nov 2026 19:33:04 -0300</lastBuildDate>
+			<lastBuildDate>Thu, 26 Nov 2026 19:52:58 -0300</lastBuildDate>
 
 			<atom:link href="https://ryannkyh.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Write</title>
+				<link>https://ryannkyh.github.io/posts/write/</link>
+				<pubDate>Thu, 26 Nov 2026 19:52:58 -0300</pubDate>
+				<guid>https://ryannkyh.github.io/posts/write/</guid>
+				<description>&lt;p&gt;Um pouco do meu processo de escrita&amp;hellip;&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Programming</title>
 				<link>https://ryannkyh.github.io/posts/programming/</link>
@@ -21,11 +28,11 @@
 				<description>&lt;p&gt;Um plano futuro meio esquecido, porém não abandonado&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>Studies</title>
-				<link>https://ryannkyh.github.io/posts/studies/</link>
+				<title>Study</title>
+				<link>https://ryannkyh.github.io/posts/study/</link>
 				<pubDate>Mon, 05 Oct 2026 09:53:20 -0300</pubDate>
-				<guid>https://ryannkyh.github.io/posts/studies/</guid>
-				<description>&lt;p&gt;Apenas um aleatorio na internet destacando seu progresso na programação..&lt;/p&gt;</description>
+				<guid>https://ryannkyh.github.io/posts/study/</guid>
+				<description>&lt;p&gt;Apenas um aleatorio na internet destacando seu progresso na programação&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Setup</title>
